@@ -1,6 +1,6 @@
 <br/>  
 
-## Hi 👋  
+<center>## Hi 👋</center>
 <h3 align="center"><b>🔗 my info 🔗</b></h3>
 </br>
 <p align="center">
@@ -12,8 +12,7 @@
 </a>
 </p>
 
-#FFD400
-  
+
 <h3 align="center"><b>🔧 Stacks 🔧</b></h3>
 </br>
 <p align="center">  
