@@ -3,18 +3,19 @@
 # Hello, I'm Byeongil 👋
 
 ## 🔗 info 🔗
-</br>
-<p align="center">
-<a href="https://mash-potato.github.io/Portfolio/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=Portfolio style="margin-bottom: 5px;" />
-</a>
-<a href="https://rotomoo.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/Tistory-%2324292e.svg?&style=for-the-badge&logo=tvtime&logoColor=white alt=Tistory style="margin-bottom: 5px;" />
-</a>
-</p>
+<br />
 
+<div>
+<a href="https://mash-potato.github.io/Portfolio/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=Portfolio style="margin-bottom: 5px;" /></a>
+<a href="https://rotomoo.tistory.com/" target="_blank">
+<img src=https://img.shields.io/badge/Tistory-%2324292e.svg?&style=for-the-badge&logo=tvtime&logoColor=white alt=Tistory style="margin-bottom: 5px;" /></a>
+<br />
+<br />
+</div>
 
 ## 🔧 Stacks 🔧
+<br />
 
 <div> 
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
@@ -28,7 +29,8 @@
 </div>
 
 <br />
-
+<br />
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mash-Potato&layout=compact)](https://github.com/Mash-Potato/github-readme-stats)
 
 </div>
