@@ -8,9 +8,11 @@
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=Portfolio style="margin-bottom: 5px;" />
 </a>
 <a href="https://rotomoo.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/Blogger-%2324292e.svg?&style=for-the-badge&logo=blogger&logoColor=white alt=Tistory style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Tistory-%2324292e.svg?&style=for-the-badge&logo=tvtime&logoColor=white alt=Tistory style="margin-bottom: 5px;" />
 </a>
 </p>
+
+#FFD400
   
 <h3 align="center"><b>🔧 Stacks 🔧</b></h3>
 </br>
