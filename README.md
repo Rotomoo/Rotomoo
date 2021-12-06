@@ -6,7 +6,7 @@
 <br />
 
 <div>
-<a href="https://mash-potato.github.io/Portfolio/" target="_blank">
+<a href="https://rotomoo.github.io/Portfolio/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=Portfolio style="margin-bottom: 5px;" /></a>
 <a href="https://rotomoo.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/Tistory-%2324292e.svg?&style=for-the-badge&logo=tvtime&logoColor=white alt=Tistory style="margin-bottom: 5px;" /></a>
@@ -31,6 +31,6 @@
 <br />
 <br />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mash-Potato&layout=compact)](https://github.com/Mash-Potato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mash-Potato&layout=compact)](https://github.com/rotomoo/github-readme-stats)
 
 </div>
