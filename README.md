@@ -6,7 +6,7 @@
 <br />
 
 <div>
-<a href="https://rotomoo.github.io/Portfolio/" target="_blank">
+<a href="https://www.notion.so/a9daf29540054eb491640f5d3b483e5a" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=Portfolio style="margin-bottom: 5px;" /></a>
 <a href="https://rotomoo.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/Tistory-%2324292e.svg?&style=for-the-badge&logo=tvtime&logoColor=white alt=Tistory style="margin-bottom: 5px;" /></a>
